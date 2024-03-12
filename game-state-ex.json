@@ -1,0 +1,21 @@
+{
+  "id": "string",
+  "players": [
+    {
+      "name": "Juan",
+      "dice": 5
+    },
+    {
+      "name": "Savanna",
+      "dice": 5
+    },
+    {
+      "name": "Spud",
+      "dice": 5
+    },
+    {
+      "name": "Chickpea",
+      "dice": 5
+    }
+  ]
+}
