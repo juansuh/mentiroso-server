@@ -1,5 +1,6 @@
 {
   "id": "string",
+  "timeLimit": 60,
   "players": [
     {
       "name": "Juan",
@@ -17,5 +18,10 @@
       "name": "Chickpea",
       "dice": 5
     }
-  ]
+  ],
+  "activePlayer": "Juan",
+  "activeBet": {
+    "count": 4,
+    "value": 4
+  }
 }
